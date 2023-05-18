@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <EnlistmentRoot>$(MSBuildThisFileDirectory)</EnlistmentRoot>
+    <Configuration>Release</Configuration>
+    <OutputPath>$(EnlistmentRoot)\out\$(Configuration)</OutputPath>
+  </PropertyGroup>
+</Project>
